@@ -1,5 +1,4 @@
-# dio-live-transcribe270821
-Repositório de código para a live sobre o Amazon Transcribe da Digital Innovation One
+# Criando legendas de áudio com o Amazon Transcribe
 
 ### Recursos AWS utilizados na atividade:
 
